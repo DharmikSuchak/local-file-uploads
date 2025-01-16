@@ -6,6 +6,6 @@ public class ChocolateDistributionProblem {
         for(int i=0;i+m-1<n;i++){
             mindiff=Math.min(a.get(i+m-1)-a.get(i),mindiff);
         }
-        return mindiff;
+        return min diff;
     }
 }
